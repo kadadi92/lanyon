@@ -1,8 +1,8 @@
 # Dependencies
-markdown: karmdown
-pygments:         true
+#markdown: karmdown
+#pygments:         true
 
-highlighter: rouge
+#highlighter: rouge
 
 # Permalinks
 permalink:        :categories/:title
