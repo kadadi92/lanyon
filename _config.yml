@@ -1,6 +1,6 @@
 # Dependencies
 markdown: karmdown
-#pygments:         true
+pygments:         true
 
 highlighter: rouge
 
