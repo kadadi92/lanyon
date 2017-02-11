@@ -4,22 +4,138 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
   {{ content }}
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
+<hr>
+<div>
+  <h2>Share This:</h2>
+
+        <!-- Facebook -->
+        <a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}" target="_blank" class="share-btn facebook">
+            <i class="fa fa-facebook"></i>
+        </a>
+  
+        <!-- Twitter -->
+        <a href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank" class="share-btn twitter">
+            <i class="fa fa-twitter"></i>
+        </a>
+
+        <!-- Google Plus -->
+        <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn google-plus">
+            <i class="fa fa-google-plus"></i>
+        </a>
+  
+        <!-- LinkedIn -->
+        <a href="http://www.linkedin.com/shareArticle?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" class="share-btn linkedin">
+            <i class="fa fa-linkedin"></i>
+        </a>
+  
+        <!-- Reddit -->
+        <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" class="share-btn reddit">
+            <i class="fa fa-reddit"></i>
+        </a>
+
+        <!-- Email -->
+        <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" target="_blank" class="share-btn email">
+            <i class="fa fa-envelope"></i>
+        </a>
 </div>
+        <style>
+            .share-btn, .dark-theme .share-btn {
+                display: inline-block;
+                color: #ffffff;
+                border: none;
+                padding: 0.5em;
+                width: 4em;
+                opacity: 0.9;
+                box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+                outline: none;
+                text-align: center;
+            }
+            .share-btn:hover {
+              color: #eeeeee;
+            }
+            .share-btn:active {
+              position: relative;
+              top: 2px;
+              box-shadow: none;
+              color: #e2e2e2;
+              outline: none;
+            }
+            .share-btn.twitter { background: #55acee; }
+            .share-btn.google-plus { background: #dd4b39; }
+            .share-btn.facebook { background: #3B5998; }
+            .share-btn.stumbleupon { background: #EB4823; }
+            .share-btn.reddit { background: #ff5700; }
+            .share-btn.linkedin    { background: #4875B4; }
+            .share-btn.email { background: #444444; }
+          
+          table.featuretable {
+              border-collapse: collapse;
+              width: 100%;
+          }
+          
+          .featuretable td:first-child{
+              border-top-left-radius:    10px;
+              border-bottom-left-radius: 10px;
+              border: 1px solid #dddddd;
+              padding: 8px;
+              width: 50%;
+              text-align: center;
+          }
+          
+          .featuretable td:last-child{
+              border-top-right-radius:    10px;
+              border-bottom-right-radius: 10px;
+              border: 1px solid #dddddd;
+              padding: 8px;
+              width: 50%;
+              text-align: center;
+          }
+        </style>
+<hr>
+<table class="featuretable">
+  <tr>
+    <td>
+      <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Novellatranslation', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+        <p>Subscribe to Novellatranslation:</p>
+        <p><input type="text" style="width:140px" name="email"/></p>
+        <input type="hidden" value="Novellatranslation" name="uri"/>
+        <input type="hidden" name="loc" value="en_US"/>
+        <input type="submit" value="Subscribe" />
+      </form>
+    </td>
+    <td>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="EVZ9HBHXCBNKE">
+        <input type="image" src="/public/donate.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+      </form>
+    </td>
+  </tr>
+</table>
+<hr>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//novellatranslation-com-2.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
