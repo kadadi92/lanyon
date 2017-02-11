@@ -10,25 +10,76 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
-
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
-    {% assign pages_list = site.pages %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a id="chinesenovelslink" href="javascript:;" class="sidebar-nav-item" data-toggle="collapse" data-target="#chinesenovelslist" class="collapsed">
+        Chinese Novels
+    </a>  
+    <ul class="collapse" class="sidebar-nav-item" id="chinesenovelslist">
+        <li class="sidebar-nav-item"><a href="/A-Warm-Wedding-and-A-New-Bride-of-Young-Master-Lu">A Warm Wedding and A New Bride of Young Master Lu</a></li>
+        <li class="sidebar-nav-item"><a href="/Dragon-Emperor-Martial-God">Dragon Emperor, Martial God</a></li>  
+    </ul>
+    <a class="sidebar-nav-item" href="/About">About</a>
+    <a class="sidebar-nav-item" href="/Contact-us">Contact us</a>
+    <a class="sidebar-nav-item" href="/Suggestions">Suggestions</a> 
   </nav>
+  
+  <div class="sidebar-item">
+      <input type="checkbox" id="themechanger" onclick="changetheme()"/>Light Theme
+  </div>
+  
+  <script type="text/javascript">
+    function changetheme(){
+      if($('#themechanger').prop("checked") == true){
+        setlighttheme('true');
+        setCookie('true');
+      } else if($('#themechanger').prop("checked") == false){
+        setlighttheme('false');
+        setCookie('false');
+      }
+    }
+    
+    function setlighttheme(value){
+      if(value=='true'){
+        $("body").removeClass("dark-theme");
+      } else if(value=='false') {
+        $("body").addClass("dark-theme");
+      }
+    }
+    
+    function setCookie(cvalue) {
+      var d = new Date();
+      d.setTime(d.getTime() + (30*24*60*60*1000));
+      var expires = "expires="+ d.toUTCString();
+      document.cookie = "novellalighttheme=" + cvalue + ";" + expires + ";path=/";
+      console.log(document.cookie);
+    }
+    
+    function getCookie() {
+      var name = "novellalighttheme=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+    
+    $(document).ready(function(){
+      if(getCookie()!=""){
+        setlighttheme(getCookie());
+        $('#themechanger').prop('checked', true);
+        console.log(document.cookie);
+      } else {
+        $('#themechanger').prop('checked', false);
+        console.log("nothing");
+      }
+    });
+  </script>
 
   <div class="sidebar-item">
     <p>
