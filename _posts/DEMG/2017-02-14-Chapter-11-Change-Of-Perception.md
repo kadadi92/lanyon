@@ -10,6 +10,7 @@ category: Dragon Emperor, Martial God
 <p>"How heavy is that bag?"</p>
 
 <p>Tang Meng made his way to Cheng Zhi, where those three sports students were. He pulled out a box of Soviet cigarettes, picked one out of the box and threw it in his general direction.</p>
+<!--more-->
 
 <p>As long as schools would have games or sports, Tang Meng would do gambling with the athletes such as Cheng Zhi. So all students, no matter their class or sport, recognized them, and all were in good relationships with them.</p>
 
