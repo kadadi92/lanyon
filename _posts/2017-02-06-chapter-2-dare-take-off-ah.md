@@ -1,6 +1,7 @@
 ---
 title: Chapter 2 - You Dare To take Off Ah
 layout: post
+category: A Warm Wedding and A New Bride of Young Master Lu
 ---
 <p>They were in the presidential room now.</p>
 <p>A charming man with perfect figure sat down on the sofa. Su Jian An couldn't stop staring into his sexy lips.</p>
