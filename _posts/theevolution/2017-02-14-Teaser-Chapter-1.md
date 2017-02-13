@@ -5,6 +5,7 @@ layout: post
 <p>This is my name. I am a second grade student going to a special high school.
 <p>Even if it is special, it is not a place where people have cartoon-like abilities, or frequented by aliens.
 <p>It is rather a so-called idol training school...
+<!--more-->
 <p>Famous school girl and boy idols go to the same school where I go.
 <p>But do I look anything like them? If you asked that, the answer would be “no”. Not even close.
 <p>Luckily, at least I'm not bald. But I'm pretty uggly, and I smell terribly.
