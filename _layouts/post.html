@@ -14,12 +14,12 @@ layout: default
   {% for post in site.categories[category_name] %}
     <li>{{ post.title }}</li>
   {% endfor %}
-  {% comment %}
   {% if page.next %} 
       <a rel="next" href="{{ page.next.url }}">Newer &rarr;</a>
   {% else %}
       Newer &rarr;
   {% endif %}
+  {% comment %}
   {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
