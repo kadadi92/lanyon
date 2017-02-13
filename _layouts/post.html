@@ -72,11 +72,15 @@ layout: default
             .share-btn.linkedin    { background: #4875B4; }
             .share-btn.email { background: #444444; }
           
-          table.featuretable {
+          .featuretable {
+            border-radius: 10px;
+            border: 1px solid #dddddd;
+            padding: 0px;
+          }
+          
+          .featuretable table {
               border-collapse: collapse;
               width: 100%;
-              border-radius: 10px;
-              border: 1px solid #dddddd;
               padding: 8px;
           }
           
@@ -99,27 +103,29 @@ layout: default
           }*/
         </style>
 <hr>
-<table class="featuretable">
-  <tr>
-    <td>
-      <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Novellatranslation', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-        <p>Subscribe to Novellatranslation:</p>
-        <p><input type="text" style="width:140px" name="email"/></p>
-        <input type="hidden" value="Novellatranslation" name="uri"/>
-        <input type="hidden" name="loc" value="en_US"/>
-        <input type="submit" value="Subscribe" />
-      </form>
-    </td>
-    <td>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="EVZ9HBHXCBNKE">
-        <input type="image" src="/public/donate.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-      </form>
-    </td>
-  </tr>
-</table>
+<div class="featuretable">
+  <table>
+    <tr>
+      <td>
+        <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Novellatranslation', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+          <p>Subscribe to Novellatranslation:</p>
+          <p><input type="text" style="width:140px" name="email"/></p>
+          <input type="hidden" value="Novellatranslation" name="uri"/>
+          <input type="hidden" name="loc" value="en_US"/>
+          <input type="submit" value="Subscribe" />
+        </form>
+      </td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="EVZ9HBHXCBNKE">
+          <input type="image" src="/public/donate.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
 <hr>
 <div id="disqus_thread"></div>
 <script>
