@@ -9,7 +9,7 @@ tittle: Chapter 1 - Robbrey
 <p>"I'm begging you, stop hitting me, miss Luo, sister...... I understand it, please stop, I'm begging you......"</p>
 
 <p>You Ran-Mi scampered off like a frightened rat, the young woman keeps swinging her long sleeves, crackling sounds to be heard, hitting You Ran-Mi until he begs for a mercy, at the moment, a loud eerie screaming of waaa waaa, suddenly the young woman started to dread.</p>
-
+<!--more-->
 <p>"Poor child don't cry, mother is right beside you!" At the same, she just flashed into the floating cradle's side.</p>
 
 <p>You Ran-Mi with a painful face, this old woman is such an unreasonable woman! He followed the woman, his eyes gleaming with a flashing radiance of motherly love.</p>
