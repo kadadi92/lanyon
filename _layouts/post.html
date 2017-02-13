@@ -11,6 +11,9 @@ layout: default
   {% else %}
       &larr; Older<br>
   {% endif %}
+  {% for post in site.categories[category_name] %}
+    <li>{{ post.title }}</li>
+  {% endfor %}
   {% comment %}
   {% if page.next %} 
       <a rel="next" href="{{ page.next.url }}">Newer &rarr;</a>
