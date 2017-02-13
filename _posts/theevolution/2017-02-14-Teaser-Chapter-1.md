@@ -8,7 +8,7 @@ Even if it is special, it is not a place where people have cartoon-like abilitie
 It is rather a so-called idol training school...<br />
 <br />
 Famous school girl and boy idols go to the same school where I go.<br />
-<br />
+<br /><!--more-->
 But do I look anything like them? If you asked that, the answer would be “no”. Not even close.<br />
 Luckily, at least I'm not bald. But I'm pretty <gs id="25c0a3ed-cc93-41f7-9bba-60f71d355bef" ginger_software_uiphraseguid="2508e9c3-43ae-49db-ae0c-271ca20dbe34" >uggly</gs>, and I smell terribly.<br />
 <br />
