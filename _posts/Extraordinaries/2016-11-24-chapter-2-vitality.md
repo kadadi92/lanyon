@@ -1,0 +1,75 @@
+---
+layout: post
+title: Chapter 2 - Vatality
+---
+<p>The story of the way of Yan was pretty mysterious, thousand years ago there were Buddhists living in those immortal world. But the Buddhists and the people were having a big war against each other which shook the ground. After that, the Buddhist were just disappeared and hundreds of years had passed and the way of Yan existed.</p>
+
+<p>The training style of Yan and the Buddhist were having a lot of similarities and also the Yan people were looking down to the Buddhist. They were always having war, so Mei-Luo would not want her son to join the Yan path.</p>
+
+<p>The part the Mei-Luo cannot hold the most was Yan training was extremely hard. They like to be living on ordinary people's house, freeloading food and wears.</p>
+
+<p>Of course this is a self cultivation the immortals against Yan path, Yan's training was not so unbearable.</p>
+
+<p>The moment the eight spirits and one hundred and eight of evils' power were all used up, both husband and wife displayed a bitter face. Mei-Luo was crying.</p>
+
+<p>"My, my...... My son will go to door of Yan, to training the path of Yan? I......"</p>
+
+<p>You Ran-Mi cannot hold it, he started the deduction one more time.</p>
+
+<p>Mei-Luo was just teary, and she just accepted their fate. "It's alright...... sobs sob, if it was for our son to be alive, even though I have to leave him, I......"</p>
+
+<p>You Ran-Mi also felt the same as his wife, but he in his heart, he knew it all. Those past time when he was still robbing Yan's treasure although he had never kill a man, but he had wounded countless Yan world's master and one of them was one of the strongest.</p>
+
+<p>Yan world has high of one's responsibility so that all these cause should their son take the responsible. Their son would not live along though he join the Yan or even he was staying with his parents.</p>
+
+<p>The husband and wife kungfu level were the highest. Mei-Luo loved her son and depressed by the situation and even lost herself, but she must knew that they have to leave their son.</p>
+
+<p>You Ran-Mi was different from his wife, he kept thinking for the future of his son's life.</p>
+
+<p>"I will do whatever it takes for the sake of our son!"</p>
+
+<p>Mei-Luo lost herself once more and hit her husband, shouted: "He is my son, I do not want him having a bad life, I do not want to leave him either...... I want myself to do whatever it takes, not my son!"</p>
+
+<p>You Ran-Mi cannot do a thing while his wife was like that. He was being hit so many times and cannot even dodge.</p>
+
+<p>After that, Mei-Luo came to her senses and regretted while pulling You Ran-Mi's robe: "You fool, why didn't you run!"</p>
+
+<p>You Ran-Mi pulled and embraced her.</p>
+
+<p>"I understood, do not worry, my wife."</p>
+
+<p>Mei-Luo burst into tears, she needed to leave her son in these two years as soon as possible. She did not want her son to be hurt.</p>
+
+<p>You Mi-Ran still thinking ways. He needed to make sure there is someone that can take his son. He needed to make sure his son has to be safe.</p>
+
+<p>Mei-Luo also helped his husband to find the best way. They had come this far all thanks to You Ran-Mi's Eight Diagram techniques.</p>
+
+<p>Suddenly, he spoke.</p>
+
+<p>"There is! I found a place for him!"</p>
+
+<p>The bleak autumn wind swept the mountains, the ground dyed with gorgeous colors, golden yellow, deep brown, bright red, all on the grounds.</p>
+
+<p>The wind passed by, red, yellow, brown falling leaves, floating on the air slowly falling down made a mountain piled out of thick golden leaves.</p>
+
+<p>Sun light shone passed the trees with bright golden light made warmth.</p>
+
+<p>In the evening, there was a sound of tambours being hit came from the west of the West Yan gate. A smoke was to be seen soaring in the air.</p>
+
+<p>This one was a calmly serene autumn.</p>
+
+<p>West Yan gate's back was a famous Western Hills, the foot of the hills is and endless cliff. The cliff was aflame with crimson maple shone by the sun.</p>
+
+<p>A young man with white shirt came out from the maple forest.</p>
+
+<p>As soon as he approached, this young man looked like in a difficult situation, his hair was in a mess while wearing a white shirt but in fact it was a monk's robe of patches, it was the one patch patched with another kind of robe. It's color had been washed away so it became white. It has so many holes on it.</p>
+
+<p>The white robe young man was the West Yan gate Yan's follower Xiao Jing-Mi.</p>
+
+<p>This young man was thirteen. The first time a Yan follower met with pack of wolves, it was shocked enough.</p>
+
+<p>West hills had so many wolves and this was not a new thing. Wolves were being active in the winter because that season was hard to find for food. The pack will search around, attacking people around, but autumn was a very adequate season where there were so much food to find. Wolves have always been very smart.</p>
+
+<p>But this time Xiao Jing-Mi met a lone wolf and a very hungry one so he had to face it. This wolf was so hungry that it only focused to eat his flesh alive.</p>
+
+<br />
