@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter 10 - Gambling
+category: Dragon Emperor, Martial God
 ---
 
 <p><strong>Note: We have tried to translate this chapter. If you like our translation. We will pick up the novel. This is not edited.</strong></p>
