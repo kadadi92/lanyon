@@ -193,4 +193,6 @@ That is why the strange authenticity in the word of God of this broadcast was bu
 <br />
 The voice coming from the speaker sounded somewhat amused.<br />
 <br />
-"From now on, you will go to a different world from this planet - another world"
+<p>"From now on, you will go to a different world from this planet - another world"</p>
+
+<p>Hope You Like It!</p>
