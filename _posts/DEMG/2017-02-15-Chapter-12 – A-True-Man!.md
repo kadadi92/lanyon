@@ -7,7 +7,7 @@ tittle: Chapter-12 – A-True-Man!
 <p>Suddenly the playground fell to silence. After a few seconds and even louder cheering burst out, mixed with a round of applause.</p>
 
 <p>“The fourth lap? Ah, that's quite slow...” Lingyun spouted with a hint of self-deprecation, while he was smiling and biting his tongue.</p>
-
+<!--more-->
 <p>The pain! The pain! His eyes were now turning red.</p>
 
 <p>In the first lap, he had adapted to the weight of the sandbag.</p>
