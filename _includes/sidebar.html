@@ -47,8 +47,10 @@
     function setlighttheme(value){
       if(value=='true'){
         $("body").removeClass("dark-theme");
+        $('#themechanger').prop("checked", false);
       } else if(value=='false') {
         $("body").addClass("dark-theme");
+        $('#themechanger').prop("checked", true);
       }
     }
     
@@ -76,9 +78,9 @@
     }
     
     $(document).ready(function(){
-      console.log(getCookie());
-      if(getCookie()!=""){
-        setlighttheme(getCookie());
+      var val = getCookie();
+      if(val!=""){
+        setlighttheme(val);
       }
     });
   </script>
