@@ -1,6 +1,7 @@
 ---
 layout: post
 tittle: Chapter-12 – A True Man!
+category: Dragon Emperor, Martial God
 ---
 <p>“The fourth lap!”, somebody exclaimed.</p>
 
