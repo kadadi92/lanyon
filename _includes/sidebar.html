@@ -47,10 +47,10 @@
     function setlighttheme(value){
       if(value=='true'){
         $("body").removeClass("dark-theme");
-        $('#themechanger').prop("checked", false);
+        $('#themechanger').prop("checked", true);
       } else if(value=='false') {
         $("body").addClass("dark-theme");
-        $('#themechanger').prop("checked", true);
+        $('#themechanger').prop("checked", false);
       }
     }
     
