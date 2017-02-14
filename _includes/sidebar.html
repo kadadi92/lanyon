@@ -73,7 +73,7 @@
     }
     
     $(document).ready(function(){
-      if(getCookie()!=""){
+      if(getCookie()!="" or getCookie()!=null){
         setlighttheme(getCookie());
         $('#themechanger').prop('checked', true);
         console.log(document.cookie);
