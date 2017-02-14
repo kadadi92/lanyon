@@ -1,7 +1,7 @@
 ---
 layout: post
+tittle: Chapter 1 - To a New World
 ---
-<h1> Chapter 1 - To a New World </h1>
 <p>This is my name. I am a second grade student going to a special high school.
 <p>Even if it is special, it is not a place where people have cartoon-like abilities, or frequented by aliens.
 <p>It is rather a so-called idol training school...
