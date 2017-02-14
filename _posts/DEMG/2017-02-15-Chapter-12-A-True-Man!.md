@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Chapter-12 – A-True-Man!
+tittle: Chapter-12 – A True Man!
 ---
 <p>“The fourth lap!”, somebody exclaimed.</p>
 
