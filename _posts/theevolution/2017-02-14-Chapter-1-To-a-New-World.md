@@ -2,7 +2,7 @@
 layout: post
 tittle: Chapter 1 - To a New World
 ---
-<p>I Didn't known that it's been already Translated, So if you have any Japanese novel For suggestion Please comment below.i will try to translate. Thank you</p>    
+<p>It's Light Novel version of "Shinka No Mi", So if you have any other Japanese novel For suggestion Please comment below.i will try to translate. Thank you</p>    
 <p>This is my name. I am a second grade student going to a special high school.
 <p>Even if it is special, it is not a place where people have cartoon-like abilities, or frequented by aliens.
 <p>It is rather a so-called idol training school...
