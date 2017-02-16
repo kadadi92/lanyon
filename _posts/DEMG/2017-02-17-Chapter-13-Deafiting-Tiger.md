@@ -8,7 +8,7 @@ category: Dragon Emperor, Martial God
 <p>Right now Lingyun is not even 50 meters into the fifth lap, and Li Lei has enough time to stop him.</p>
 
 <p>He believes that if he pushed Lingyun now, he would certainly fall to the ground and not come back up.</p>
-
+<!--more-->
 <p>He gets on the track and waits calmly for Lingyun to arrive.</p>
 
 <p><gs id="8b5d84fe-a2c4-4a54-8e41-fcd447900541" ginger_software_uiphraseguid="2f9a1936-483d-402a-92dd-3deb53d80ff3" >Lingyun</gs> feels like he is running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
