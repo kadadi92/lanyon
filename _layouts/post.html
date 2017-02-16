@@ -61,7 +61,7 @@ layout: default
         </form>
       </td>
       <td>
-        {% case page.categories %}
+        {% case page.categories[0] %}
           {% when 'Dragon Emperor, Martial God' %}
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
