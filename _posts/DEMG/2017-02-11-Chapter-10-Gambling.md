@@ -29,6 +29,16 @@ category: Dragon Emperor, Martial God
 
 <p>Zhuangmei Na had just smashed two thousand dollars gambling on Lingyun up to run a circle, which Xie Junyan Lingyun thinks now he can even run four laps, this is not ridicoulus?</p>
 <br />
+<table style="border:none">
+  <tr>
+    <td style="text-align:left">
+      <a href="#">Previous chapter</a>
+    </td>
+    <td style="text-align:right">
+      <a href="http://novellatranslation.com/Chapter-11-Change-Of-Perception">Next chapter</a>
+    </td>
+  </tr>
+</table>
 <br />
 <p>She is not distressed that they lose the two thousand dollars, but worried that in front of so many people lost their face!</p>
 
