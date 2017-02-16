@@ -9,8 +9,7 @@ layout: default
 </div>
 
 <hr>
-
-        <style>          
+<style>          
           table.featuretable {
               border-collapse: separate;
               border-spacing: 0;
@@ -48,7 +47,7 @@ layout: default
             color: #dddddd;
           }
           
-        </style>
+  </style>
   <table class="featuretable">
     <tr>
       <td>
@@ -61,7 +60,7 @@ layout: default
           <p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p>
         </form>
       </td>
-      <td> {% assign flag = 0 %}
+      <td> {% increment flag %}
           {% for cat in page.categories %}
             {% if cat == "Dragon Emperor, Martial God" %}
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
