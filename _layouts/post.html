@@ -9,69 +9,8 @@ layout: default
 </div>
 
 <hr>
-<div>
-  <h2>Share This:</h2>
 
-        <!-- Facebook -->
-        <a href="http://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}" target="_blank" class="share-btn facebook">
-            <i class="fa fa-facebook"></i>
-        </a>
-  
-        <!-- Twitter -->
-        <a href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank" class="share-btn twitter">
-            <i class="fa fa-twitter"></i>
-        </a>
-
-        <!-- Google Plus -->
-        <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn google-plus">
-            <i class="fa fa-google-plus"></i>
-        </a>
-  
-        <!-- LinkedIn -->
-        <a href="http://www.linkedin.com/shareArticle?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" class="share-btn linkedin">
-            <i class="fa fa-linkedin"></i>
-        </a>
-  
-        <!-- Reddit -->
-        <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" class="share-btn reddit">
-            <i class="fa fa-reddit"></i>
-        </a>
-
-        <!-- Email -->
-        <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" target="_blank" class="share-btn email">
-            <i class="fa fa-envelope"></i>
-        </a>
-</div>
-        <style>
-            .share-btn, .dark-theme .share-btn {
-                display: inline-block;
-                color: #ffffff;
-                border: none;
-                padding: 0.5em;
-                width: 4em;
-                opacity: 0.9;
-                box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
-                outline: none;
-                text-align: center;
-            }
-            .share-btn:hover {
-              color: #eeeeee;
-            }
-            .share-btn:active {
-              position: relative;
-              top: 2px;
-              box-shadow: none;
-              color: #e2e2e2;
-              outline: none;
-            }
-            .share-btn.twitter { background: #55acee; }
-            .share-btn.google-plus { background: #dd4b39; }
-            .share-btn.facebook { background: #3B5998; }
-            .share-btn.stumbleupon { background: #EB4823; }
-            .share-btn.reddit { background: #ff5700; }
-            .share-btn.linkedin    { background: #4875B4; }
-            .share-btn.email { background: #444444; }
-          
+        <style>          
           table.featuretable {
               border-collapse: separate;
               border-spacing: 0;
@@ -110,7 +49,6 @@ layout: default
           }
           
         </style>
-<hr>
   <table class="featuretable">
     <tr>
       <td>
@@ -133,7 +71,7 @@ layout: default
                 <input type="image" src="/public/donate.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
               </form>
-              {% assign flag = 1 %}
+              {% increment flag %}
               {% break %}
             {% else if cat == "A Warm Wedding and A New Bride of Young Master Lu" %}
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -143,7 +81,7 @@ layout: default
                 <input type="image" src="/public/donate.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
               </form>
-              {% assign flag = 1 %}
+              {% increment flag %}
               {% break %}
             {% endif %}
           {% endfor %}
