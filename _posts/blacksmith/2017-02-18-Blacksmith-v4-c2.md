@@ -1,0 +1,207 @@
+---
+lapout: post
+tittle: Blacksmith V4 C2
+category: Blacksmith
+---
+<p>"I see flowers."<br />
+"She's looking at flowers."<br />
+Two stalkers looking at a pretty girl who was looking at flowers.<br />
+No, the prince was the one real stalker, I was just his guard.<br />
+<br /><!--more-->
+"Oh, I feel uncomfortable."<br />
+"It shows."<br />
+"Is it because of that harassment we witnessed to before?"<br />
+"No, I am probably hungry."<br />
+The prince turned his eyes away from Iris and he looked at me.<br />
+"Are you serious?"<br />
+He was trying to tell me something.<br />
+I didn't know what to do.<br />
+<br />
+"Anyhow, it looks like Iris likes the flowers."<br />
+"There is something regal in you."<br />
+"Is there?"<br />
+I blushed.<br />
+A lot.<br />
+<br />
+Apparently I was not accustomed to being praised by a handsome man.<br />
+I was always busy doing something, so I never had anybody around me.<br />
+<br />
+I could double down on it, and hope for a greater reward.<br />
+But for the moment, keeping a moderate distance was better. No, I didn't want to come closer, if possible.<br />
+<br />
+"You are thinking about dirty stuff right now."<br />
+"No, absolutely not."<br />
+He was trying to make his personality manifest. What a situation!<br />
+<br />
+"Iris seems to be moving."<br />
+"Come, let's go follow her."<br />
+<br />
+<br />
+Iris' next destination was her usual farm.<br />
+Her favorite vegetables were growing fast and good.<br />
+<br />
+When she got there she always watered the field a lot.<br />
+Any trace of sadness disappeared from her face, and she smiled.<br />
+<br />
+"What is she growing?"<br />
+"Don't you see it?"<br />
+"Don't answer to a question with more questions. Just say what you are asked."<br />
+"It's vegetables."<br />
+"Vegetables..."<br />
+It made no sense for the prince to be confused.<br />
+The prince, who should have been knowledgeable, had no idea what vegetables were.<br />
+<br />
+"Aren't they too big?"<br />
+"Maybe it is the prince who has become smaller."<br />
+he prince seemed very interested in that big vegetable.<br />
+The nation is a prince's pride. He ought to strive ad create a rich country. And he should have returned with his feet back on the ground.<br />
+<br />
+"Who is helping her in the fields?"<br />
+"It's a man named Toto. He just left the greenhouse."<br />
+A guy coming out of the greenhouse was chatting with Iris.<br />
+It had to be Toto.<br />
+All seemed fine.<br />
+<br />
+<a name="result_box2"></a>"Does he feel something for Iris?"<br />
+"Please, listen to them yourself."<br />
+I knew that Toto was not in love with Iris, but the prince would not take me at my word.<br />
+He was listening to them talk.<br />
+<br />
+"I will get rid of him."<br />
+"Stop!"<br />
+It was the second time that day I had to prevent a fight.<br />
+Oh, come on! He was already leaning towards violence!<br />
+<br />
+"No, they're just friends!"<br />
+"Well, that's fine, then."<br />
+He looked like a tyrant. In just one moment he could snap like that!<br />
+<br />
+While I was trying to hold the prince back, and those two were chatting happily, I noticed that Toto's complexion changed.<br />
+A noise came from the doghouse we had made the day before.<br />
+<br />
+Oh, Goru seemed to have woken up.<br />
+<br />
+Goru jumped out of the doghouse and ran towards Iris at full speed.<br />
+Along the way, he changed his target into Toto, and began chasing him with a threatening look.<br />
+I think he was just jesting.<br />
+<br />
+I absolutely loved that dog.<br />
+"Bad, bad boy, Alfredo, stop it."<br />
+After Iris spoke, the dog immediately calmed down.<br />
+<br />
+Toto was about to die.<br />
+Poor guy.<br />
+<br />
+"Hey, since when do you have that dog?"<br />
+"A couple of days."<br />
+"Did you call him Alfredo?"<br />
+"No, he's Goru."<br />
+"Eh! But Iris just called him Alfredo!"<br />
+<a name="result_box3"></a>"It's Goru."<br />
+"... Goru?"<br />
+It was the second anniversary of the birth of the Goroist faction.<br />
+It was a bit of a stretch, I know.<br />
+<br />
+While I was dissuading the prince, the aforementioned Goru now looked towards us.<br />
+He clearly couldn't see us behind the bushed, but it was like he was aware of us.<br />
+"Did he smell us?"<br />
+Was it really the case?<br />
+Okay, was it time for the two stalkers to come out of the shadows?<br />
+<br />
+However, Goru soon lost interest and got distracted by something else.<br />
+All the attention gathering on our hideout faded away.<br />
+<br />
+"Well, we're safe apparently."<br />
+"I won't do this again. I am literally sweating right now."<br />
+"I still don't understand."<br />
+Was Iris really depressed?<br />
+Well, she looked absolutely fine.<br />
+<br />
+When Iris left the field, she did not return to the dorm.<br />
+The day was already dawning.<br />
+<br />
+Even though it was dinner time, she left the school garden on her own.<br />
+The sunset was gradually turning to red.<br />
+<br />
+The prince blushed while looking at the horizon.<br />
+"Yeah, not bad."<br />
+<br />
+Iris sat down in the field and pulled out some cheap paper from her pocket.<br />
+Cheap making, the texture was also thin and rough.<br />
+<br />
+Iris was staring at it.<br />
+She was not just staring. Apparently there was something written on it. She read very carefully.<br />
+Indeed, there lied our answer.</p>
+
+<p><br />
+<a name="result_box4"></a>"Koibuma?! He gave it to her!?"<br />
+"No, probably somebody in her family gave it to her."<br />
+"Really?"<br />
+"Yeah, the nobles do not use such cheap paper."<br />
+<br />
+<br />
+Iris folded back the piece of paper.<br />
+Perhaps she was thinking about her family, that she had not seen for more than six months.<br />
+<br />
+It looked like the prince could be right.<br />
+Iris was depressed after all. She was worried because of her family.<br />
+<br />
+"Now I see."<br />
+"Does Iris want to see her family? But it's only three years, why does she worry so much?"<br />
+"Well, things are different for us, it's hard for you to walk in our shoes."<br />
+I knew that feeling.<br />
+Make the prince understand would be difficult.<br />
+<br />
+"Then you can help me understand."<br />
+"The winter holidays are coming, and Iris does not plan to return home. She thinks that if she studies more, she will have better chances of finding a good job."</p>
+
+<p>"There will be more good opportunities in the future."<br />
+The prince showed a huge grin as soon as he sad that. What was on his mind?<br />
+<br />
+"Oh, is it the Autumn Sports Festival?"<br />
+"Yes, the only opportunity for parents to visit the school will come soon."<br />
+"So Iris might have been thinking about her family all along, and we were not aware of it."<br />
+"We were not until now. I will fix everything."<br />
+I realized the prince was going to use his position to do something.<br />
+<br />
+"Iris' family are commoners, they they cannot participate."<br />
+"If they will be able to see their daughter, I'm sure they will be happy about it."<br />
+The prince looked really motivated.<br />
+<br />
+"Please do not tell this to anybody, especially the other people living with her. Think about the whole picture."<br />
+"How many gold coins would that be?"<br />
+We were talking about gold! Really!<br />
+Things couldn't go any better.</p>
+
+<p>“20 would be enough, is it? Please keep it confidential”<br/>
+I got on the prince's proposal in the spirit of having money if I had it.<br/>
+it’s not a bad thing to wish that girl want to see her family</p>
+
+<p>If you do not do too much, you should move in a good direction! I believed and took the devil's invitation.</br>
+Thus the rite of the iris' family summoning was done.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 1 -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:45%;padding-right:5%;height:260px;"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="5485694392"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 2 -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:45%;padding-left:5%;height:260px;"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="6962427591"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+<table style="border:none">
+  <tr>
+    <td style="text-align:left">
+      <a href="http://novellatranslation.com/Blacksmith-V4-C1">Previous chapter</a>
+    </td>
+    <!--<td style="text-align:right">
+      <a href="#">Next chapter</a>
+    </td>-->
+  </tr>
+</table>
