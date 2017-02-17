@@ -202,36 +202,3 @@ category: Dragon Emperor, Martial God
 <p>She doesn't notice that Cao Shanshan, standing next to hes, has a strange light in her eyes.</p>
 
 <p>Only she, in the whole school, knows that Lingyun has managed to run nine laps because he has released the energy hidden inside him </p>
-
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 1 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-right:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="5485694392"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 2 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-left:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="6962427591"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      
-      
-      
-
-<table style="border:none">
-  <tr>
-    <td style="text-align:left">
-      <a href="#">Previous chapter</a>
-    </td>
-    <td style="text-align:right">
-      <a href="#">Next chapter</a>
-    </td>
-  </tr>
-</table>
