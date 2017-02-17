@@ -11,15 +11,15 @@ category: Dragon Emperor, Martial God
 <!--more-->
 <p>He gets on the track and waits calmly for Lingyun to arrive.</p>
 
-<p><gs id="8b5d84fe-a2c4-4a54-8e41-fcd447900541" ginger_software_uiphraseguid="2f9a1936-483d-402a-92dd-3deb53d80ff3" >Lingyun</gs> feels like he is running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
+<p>Lingyun feels like he is running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
 
 <p>That's why he is running faster and faster, and he approaches the position where Li Lei is.</p>
 
-<p>Seeing that <gs id="148744c7-4af1-4d4a-b2fd-468edf0be2eb" ginger_software_uiphraseguid="1d82e41f-c76c-43ae-abcc-8e3829d20795" >Lingyun</gs> is running easily, Tang Meng feels surprised, but he feels relieved as well, because he knows that Lingyun will definitely be able to complete the fifth lap. And if he completed the fifth lap, Xie Yanjun would then lose!</p>
+<p>Seeing that Lingyun is running easily, Tang Meng feels surprised, but he feels relieved as well, because he knows that Lingyun will definitely be able to complete the fifth lap. And if he completed the fifth lap, Xie Yanjun would then lose!</p>
 
 <p>But when, following with his eyes Lingying advancing, he sees Li Lei, looking much more imposing in comparison, Tang Meng's eyes burn with anger!</p>
 
-<p>"<gs id="54465643-d15b-4016-bfd8-b19ebf58ac02" ginger_software_uiphraseguid="97a39b1f-d974-4d96-8726-3af1af1864b9" >It 's</gs> all over!" That is his first thought.</p>
+<p>"It's all over!" That is his first thought.</p>
 
 <p>The proverb says that out of ten bets, nine are rigged. The small-time expert gambler Tang Meng is well aware of that, but today he has been surprised so many times by Lingyun, that he cannot think straight anymore.</p>
 
@@ -33,7 +33,7 @@ category: Dragon Emperor, Martial God
 
 <p>But now it's too late, Lingyun has already arrived in front of Li Lei!</p>
 
-<p>Li Lei first turns to look at Tang <gs id="9fe884ad-63dc-436f-84cc-9cede38196d4" ginger_software_uiphraseguid="e1190af1-f04f-476d-af2b-452a1ec4561a" >Meng who</gs> is rushing towards him, and he laughs with contempt; then he turns smiling toward <gs id="a12e37c6-fcf0-494a-a343-9a3a1f34c040" ginger_software_uiphraseguid="e1190af1-f04f-476d-af2b-452a1ec4561a" >Lingyun</gs> that is coming to him, and slowly raises his strong, muscular arm.</p>
+<p>Li Lei first turns to look at Tang Meng who is rushing towards him, and he laughs with contempt; then he turns smiling toward Lingyun that is coming to him, and slowly raises his strong, muscular arm.</p>
 
 <p>"Buddy, you're not tired? Get some rest!"</p>
 
@@ -41,17 +41,17 @@ category: Dragon Emperor, Martial God
 
 <p>No one thought that, at this stage, somebody would come and dare push Lingyun to the ground, so everyone is very surprised.</p>
 
-<p>"That person is really bad! <gs id="9b99c8b7-830b-4b77-af90-6750781bd212" ginger_software_uiphraseguid="0d12f009-d3b8-4f1c-83b4-24c6f53b289b" >Lingyun</gs> even spat blood, but he kept on running, and now this guy comes up to push him..."</p>
+<p>"That person is really bad! Lingyun even spat blood, but he kept on running, and now this guy comes up to push him..."</p>
 
 <p>"Right, how could he do that? If Lingyun fell, he would get hurt pretty badly!"</p>
 
 <p>But…</p>
 
-<p><gs id="3565ec56-3972-4653-b299-80000261cfae" ginger_software_uiphraseguid="7ef102f5-8749-40c9-adf5-ed7e81b4510c" >Lingyun's</gs> sight is now clear, and his mind focused, so as soon as Li Lei smiled, he already knew that he had bad intentions, so he prepared.</p>
+<p>Lingyun's sight is now clear, and his mind focused, so as soon as Li Lei smiled, he already knew that he had bad intentions, so he prepared.</p>
 
 <p>Seeing that Li Lei actually wanted to push him, Lingyun laughed, and moving one foot in one second has passed by the arm of Li Lei, just moving to the side.</p>
 
-<p>"I have always been the one pushing other people, being pushed myself <gs id="8de71820-d2c6-4af2-8f6f-5922cb30b34b" ginger_software_uiphraseguid="0e185b8e-0b58-40b7-825e-5ce38ffdabd3" >is</gs> really not in my style!"</p>
+<p>"I have always been the one pushing other people, being pushed myself is really not in my style!"</p>
 
 <p>"We'll settle this later!"</p>
 
@@ -211,7 +211,7 @@ category: Dragon Emperor, Martial God
   }
   
 </style>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <!-- buttom 1 -->
       <ins class="adsbygoogle"
            style="display:inline-block;width:45%;padding-right:5%;height:260px;"
@@ -229,6 +229,9 @@ category: Dragon Emperor, Martial God
       <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
+      
+      
+      
 
 <table style="border:none">
   <tr>
