@@ -144,25 +144,22 @@ category: Dragon Emperor, Martial God
 <p>“The finish line, I went there to block him!”</p>
 
 <p>After sending this message to Xie Junyan, Li Lei put the cellphone away and ran directly towards Lingyun.</p>
-</style>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 1 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-right:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="5485694392"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 2 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-left:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="6962427591"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 1 -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:45%;padding-right:5%;height:260px;"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="5485694392"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 2 -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:45%;padding-left:5%;height:260px;"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="6962427591"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <table style="border:none">
   <tr>
