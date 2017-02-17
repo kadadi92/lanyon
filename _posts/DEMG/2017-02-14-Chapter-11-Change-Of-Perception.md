@@ -127,3 +127,33 @@ category: Dragon Emperor, Martial God
 <p>Tang Meng suddenly remembered about his bet with Cao Shanshan.</p>
 
 <p>“Maybe Cao Shanshan really knows how to gamble. As long as he doesn't fall, this guy might indeed run four complete laps...”</p>
+</style>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- buttom 1 -->
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:45%;padding-right:5%;height:260px;"
+           data-ad-client="ca-pub-5308237299920427"
+           data-ad-slot="5485694392"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- buttom 2 -->
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:45%;padding-left:5%;height:260px;"
+           data-ad-client="ca-pub-5308237299920427"
+           data-ad-slot="6962427591"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+
+<table style="border:none">
+  <tr>
+    <td style="text-align:left">
+      <a href="#">Previous chapter</a>
+    </td>
+    <td style="text-align:right">
+      <a href="#">Next chapter</a>
+    </td>
+  </tr>
+</table>
