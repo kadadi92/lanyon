@@ -29,17 +29,6 @@ category: Dragon Emperor, Martial God
 
 <p>Zhuangmei Na had just smashed two thousand dollars gambling on Lingyun up to run a circle, which Xie Junyan Lingyun thinks now he can even run four laps, this is not ridicoulus?</p>
 <br />
-<table style="border:none">
-  <tr>
-    <td style="text-align:left">
-      <a href="#">Previous chapter</a>
-    </td>
-    <td style="text-align:right">
-      <a href="http://novellatranslation.com/Chapter-11-Change-Of-Perception">Next chapter</a>
-    </td>
-  </tr>
-</table>
-<br />
 <p>She is not distressed that they lose the two thousand dollars, but worried that in front of so many people lost their face!</p>
 
 <p>"Well, four laps? 1600 meters to the other end with that fat pig? Even if he did not carry the sandbag he can’t run three laps on the Guards!" Zhuangmei Na though know Xie Junyan certainly will not dig their own bet, but still Can not help but express his contempt!</p>
@@ -161,33 +150,52 @@ category: Dragon Emperor, Martial God
 <p>Tang Menggang out of the classroom building, they heard the school bell rang, but skipping for him is simply routine, he do not care.</p>
 
 <p>Lingyun in the end can persist for a long time, can he run a few laps?</p>
+<style>
+  .adboxes{
+    display: inline-block;
+    height:260px;
+    width: 49%;
+  }
+  
+  @media (max-width:400px){
+   .adboxes{
+     display: block;
+     height:260px;
+     width: 100%;
+    }
+  }
 </style>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 1 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-right:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="5485694392"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 2 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-left:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="6962427591"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+
+
+<div class="adboxes">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 1 -->
+<ins class="adsbygoogle"
+    style="display:block;height:260px"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="5485694392"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<div class="adboxes">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 2 -->
+<ins class="adsbygoogle"
+    style="display:block;height:260px"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="6962427591"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+
 
 <table style="border:none">
   <tr>
     <td style="text-align:left">
-      <a href="#">Previous chapter</a>
+      <a href="">Previous chapter</a>
     </td>
     <td style="text-align:right">
-      <a href="#">Next chapter</a>
+      <a href="http://novellatranslation.com/Chapter-11-Change-Of-Perception">Next chapter</a>
     </td>
   </tr>
 </table>
