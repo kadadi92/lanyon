@@ -127,33 +127,53 @@ category: Dragon Emperor, Martial God
 <p>Tang Meng suddenly remembered about his bet with Cao Shanshan.</p>
 
 <p>“Maybe Cao Shanshan really knows how to gamble. As long as he doesn't fall, this guy might indeed run four complete laps...”</p>
+<p><strong>Note: If you want to support this translation, but can’t donate, consider adding us to your ad blocker’s whitelist. We take intrusive ads very seriously, please contact us if you come across a malicious ad!</strong></p>
+<style>
+  .adboxes{
+    display: inline-block;
+    height:260px;
+    width: 49%;
+  }
+  
+  @media (max-width:400px){
+   .adboxes{
+     display: block;
+     height:260px;
+     width: 100%;
+    }
+  }
 </style>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 1 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-right:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="5485694392"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <!-- buttom 2 -->
-      <ins class="adsbygoogle"
-           style="display:inline-block;width:45%;padding-left:5%;height:260px;"
-           data-ad-client="ca-pub-5308237299920427"
-           data-ad-slot="6962427591"></ins>
-      <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+
+
+<div class="adboxes">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 1 -->
+<ins class="adsbygoogle"
+    style="display:block;height:260px"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="5485694392"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<div class="adboxes">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buttom 2 -->
+<ins class="adsbygoogle"
+    style="display:block;height:260px"
+    data-ad-client="ca-pub-5308237299920427"
+    data-ad-slot="6962427591"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+
 
 <table style="border:none">
   <tr>
     <td style="text-align:left">
-      <a href="#">Previous chapter</a>
+      <a href="http://novellatranslation.com/Chapter-10-Gambling">Previous chapter</a>
     </td>
     <td style="text-align:right">
-      <a href="#">Next chapter</a>
+      <a href="http://novellatranslation.com/Chapter-12-A-True-Man!">Next chapter</a>
     </td>
   </tr>
 </table>
