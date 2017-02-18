@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deafiting Tiger
-category: Dragon Emperor, Martial God
+category: Chapter 13 Dragon Emperor, Martial God
 ---
 <p>Note: We are recruting Editor for our novels. You can Contact Us through <a href="http://novellatranslation.com/contact-us">Contact Us page</a>. Mail us at novellatranslation@gmail.com</p>
 
