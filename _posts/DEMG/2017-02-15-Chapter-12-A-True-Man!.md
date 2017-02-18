@@ -191,7 +191,7 @@ category: Dragon Emperor, Martial God
       <a href="http://novellatranslation.com/Chapter-11-Change-Of-Perception">Previous chapter</a>
     </td>
     <td style="text-align:right">
-      <a href="http://novellatranslation.com/Chapter-13-Deafiting-Tiger!">Next chapter</a>
+      <a href="http://novellatranslation.com/Chapter-13-Deafiting-Tiger">Next chapter</a>
     </td>
   </tr>
 </table>
