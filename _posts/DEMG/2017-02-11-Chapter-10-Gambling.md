@@ -150,6 +150,9 @@ category: Dragon Emperor, Martial God
 <p>Tang Menggang out of the classroom building, they heard the school bell rang, but skipping for him is simply routine, he do not care.</p>
 
 <p>Lingyun in the end can persist for a long time, can he run a few laps?</p>
+
+<p><strong>Note: If you want to support this translation, but can’t donate, consider adding us to your ad blocker’s whitelist. We take intrusive ads very seriously, please contact us if you come across a malicious ad!</strong></p>
+
 <style>
   .adboxes{
     display: inline-block;
