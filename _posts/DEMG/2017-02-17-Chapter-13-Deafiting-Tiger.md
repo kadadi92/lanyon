@@ -204,17 +204,52 @@ category: Dragon Emperor, Martial God
 <p>Only she, in the whole school, knows that Lingyun has managed to run nine laps because he has released the energy hidden inside him </p>
 
 
+<style>
+  .adboxes{
+    display: inline-block;
+    height:260px;
+    width: 49%;
+  }
+  
+  @media (max-width:400px){
+   .adboxes{
+     display: block;
+     height:260px;
+     width: 100%;
+    }
+  }
+</style>
+
+
+<div class="adboxes">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- buttom 1 -->
 <ins class="adsbygoogle"
-    style="display:inline-block;width:45%;padding-right:5%;height:260px;"
+    style="display:block;height:260px"
     data-ad-client="ca-pub-5308237299920427"
     data-ad-slot="5485694392"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<div class="adboxes">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- buttom 2 -->
 <ins class="adsbygoogle"
-    style="display:inline-block;width:45%;padding-left:5%;height:260px;"
+    style="display:block;height:260px"
     data-ad-client="ca-pub-5308237299920427"
     data-ad-slot="6962427591"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+
+
+
+<table style="border:none">
+  <tr>
+    <td style="text-align:left">
+      <a href="http://novellatranslation.com/Chapter-12-A-True-Man!">Previous chapter</a>
+    </td>
+    <td style="text-align:right">
+      <a href="http://novellatranslation.com/Chapter-14-The-Return-of-the-Hero">Next chapter</a>
+    </td>
+  </tr>
+</table>
