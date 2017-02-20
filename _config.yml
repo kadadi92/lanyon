@@ -8,6 +8,7 @@
 permalink:        :title
 
 # Setup
+name:             Novellatranslation
 title:            Novellatranslation
 tagline:          'Chinese Novels '
 description:      'Chinese novel translated in English'
