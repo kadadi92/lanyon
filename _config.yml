@@ -27,3 +27,6 @@ github:
   repo:           https://github.com/poole/lanyon
 
 excerpt_separator: <!--more-->
+
+gems:
+  - jekyll-sitemap
