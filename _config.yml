@@ -28,4 +28,8 @@ github:
 
 excerpt_separator: <!--more-->
 
-gems: [ jekyll-sitemap, jekyll-feed, jekyll-admin, jekyll-minifier ]
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-admin
+  - jekyll-minifier
