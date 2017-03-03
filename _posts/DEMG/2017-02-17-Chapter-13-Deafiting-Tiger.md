@@ -3,9 +3,9 @@ layout: post
 title: Chapter 13 Deafiting Tiger
 category: Dragon Emperor, Martial God
 ---
-<p>Note: We are recruting Editor for our novels. You can Contact Us through <a href="http://novellatranslation.com/contact-us">Contact Us page</a>. Mail us at novellatranslation@gmail.com</p>
 
-<p>Dragon Emperor Edited &ndash; Chapter 13</p>
+
+<p>Editor: JetonS</p>
 
 <p>Right now Lingyun was not even 50 meters into the fifth lap, and Li Lei had enough time to stop him.</p>
 
