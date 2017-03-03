@@ -3,12 +3,14 @@ layout: post
 tittle: Chapter-12 – A True Man!
 category: Dragon Emperor, Martial God
 ---
-<p>“The fourth lap!”, somebody exclaimed.</p>
+<p>Editor: JetonS</p>
 
-<p>Suddenly the playground fell to silence. After a few seconds and even louder cheering burst out, mixed with a round of applause.</p>
+<p>&ldquo;The fourth lap!&rdquo;, somebody exclaimed.</p>
 
-<p>“The fourth lap? Ah, that's quite slow...” Lingyun spouted with a hint of self-deprecation, while he was smiling and biting his tongue.</p>
-<!--more-->
+<p>Suddenly the playground fell into silence. After a few seconds, even louder cheering burst out, mixed with a round of applause.</p>
+
+<p>&ldquo;The fourth lap? Ah, that's quite slow...&rdquo; Lingyun spouted with a hint of self-deprecation, while he was smiling and biting his tongue.</p>
+
 <p>The pain! The pain! His eyes were now turning red.</p>
 
 <p>In the first lap, he had adapted to the weight of the sandbag.</p>
@@ -25,49 +27,49 @@ category: Dragon Emperor, Martial God
 
 <p>He would either run, or fall! And of course, he would run. With physical strength, energy and stamina depleted, he was banking on his very life force to keep on moving.</p>
 
-<p>“Listen fat man, I don't care if you disagree, listen well! Since you started the fourth lap, you must finish it!”</p>
+<p>&ldquo;Listen fat man, I don't care if you disagree, listen well! Since you started the fourth lap, you must finish it!&rdquo;</p>
 
-<p>Lingyun suddenly heard a sound similar to a thunder, while a tall figured appeared at his side.</p>
+<p>Lingyun suddenly heard a sound similar to a thunder, while a tall figured appeared by his side.</p>
 
-<p>Sweat was raining down Lingyun face onto his feet, his eyes still closed. He didn't dare to swipe away the sweat, afraid to break the running rhythm.</p>
+<p>Sweat was raining down from Lingyun face onto his feet, his eyes were still closed. He didn't dare to swipe away the sweat, afraid to break the running rhythm.</p>
 
-<p>However, in hearing that voice Lingyun turned his head, and vaguely spotted an ugly smile to his left. He then looked forward once more, and kept up the pace.</p>
+<p>However, after hearing that voice, Lingyun turned his head, and vaguely spotted an ugly smile to his left. He then looked forward once more, and kept up the pace.</p>
 
-<p>Tang Meng was running beside him, trying to demoralize him. “Four laps? There's no way you will run four laps!”</p>
+<p>Tang Meng was running beside him, trying to demoralize him. &ldquo;Four laps? There's no way you will run four laps!&rdquo;</p>
 
 <p>Tang Meng then stopped in his track and stood still. He had seen a soaring smile on Lingyun's face.</p>
 
-<p>“He's not doing that for the glory, or to impress someone. He's just challenging his limits!”</p>
+<p>&ldquo;He's not doing that for the glory, or to impress someone. He's just challenging his limits!&rdquo;</p>
 
-<p>“Cao Shanshan, you won.” Tang Meng looked ad Lingyun's back, far in the distance.</p>
+<p>&ldquo;Cao Shanshan, you won.&rdquo; Tang Meng looked at Lingyun's back, far in the distance.</p>
 
-<p>At this point the students in the playground were not satisfied with applauding and cheering anymore. A girl run beside Lingyun. Then another, and another student began running beside him.</p>
+<p>At this point the students in the playground were not satisfied with applauding and cheering anymore. A girl ran beside Lingyun. Then another, and another student began running beside him.</p>
 
-<p>“Keep up! We're with you, come on!”</p>
+<p>&ldquo;Keep up! We're with you, come on!&rdquo;</p>
 
-<p>“Come on, come on!”</p>
+<p>&ldquo;Come on, come on!&rdquo;</p>
 
-<p><a name="ouHighlight__4_5TO0_7"></a>The cheering<a name="noHighlight_0.01725647493921756"></a> in<a name="noHighlight_0.6821716296338095"></a> the <a name="ouHighlight__0_1TO16_25"></a>playground<a name="noHighlight_0.4790721183258322"></a> <a name="ouHighlight__9_10TO27_32"></a>became<a name="noHighlight_0.44598142214064407"></a> <a name="noHighlight_0.631692259538174"></a>a unison.</p>
+<p>The cheering in the playground became a unison.</p>
 
 <p>Lingyun was past half the lap when he reached Class 31. Xie Junyan's expression was now grimmer, as he looked at his girlfriend and was reading a message on his phone sent by Feng Wu.</p>
 
-<p>“Boss, the fat pig is half way the fourth lap, what should I do?”</p>
+<p>&ldquo;Boss, the fat pig is half way the fourth lap, what should I do?&rdquo;</p>
 
 <p>Xie Junyan quickly answered the message.</p>
 
-<p>“He is almost done finishing the fourth lap. I don't care what happens, even if you have to break his legs, he must not do it!”.</p>
+<p>&ldquo;He is almost done finishing the fourth lap. I don't care what happens, even if you have to break his legs, he must not do it!&rdquo;</p>
 
-<p>Xie Junyan gave her a vicious gaze, and then seemed to go back listening to the lesson as usually.</p>
+<p>Xie Junyan gave her a vicious gaze, and then seemed to go back listening to the lesson as usual.</p>
 
-<p>Back on the playground, Cheng Zhy was doing some boxing practice, put the phone back into his pocket, and looked at Lingyun running by.</p>
+<p>Back on the playground, Cheng Zhy was doing some boxing practice, he put the phone back into his pocket, and looked at Lingyun running from afar.</p>
 
-<p>His real name was Li Lei, and he was the brother of Xie Junyan, a true school thug. They went along after school, but in order to maintain his reputation, Xie Junyan usually had as little contact with Li as possible while in school. Xie Junyan had gambled big against Lingyun.</p>
+<p>His real name was Li Lei, and he was the brother of Xie Junyan, a true school thug. They tagged along after school, but in order to maintain his reputation, Xie Junyan usually had as little contact as possible with Li when in school. Xie Junyan had gambled big against Lingyun.</p>
 
 <p>Meanwhile, Lingyun kept on running.</p>
 
-<p>“Only 100 meters left! Come on!”</p>
+<p>&ldquo;Only 100 meters left! Come on!&rdquo;</p>
 
-<p>“Come on! Come on!”</p>
+<p>&ldquo;Come on! Come on!&rdquo;</p>
 
 <p>Empowered by the cheering of more and more students from the lower grades, his steps got even faster than before. He was enjoying the sensation of the last energies left in his body and his spirit.</p>
 
@@ -77,41 +79,41 @@ category: Dragon Emperor, Martial God
 
 <p>Now he was still running thanks to inertia. He was still going, but his movements were no longer coherent, and he completely lost his rhythm.</p>
 
-<p>“After all, my body shows its limits!” Lingyun helplessly sighed.</p>
+<p>&ldquo;After all, my body shows its limits!&rdquo; Lingyun helplessly sighed.</p>
 
 <p>He knew that in order to complete the fourth lap, he had to deplete Reiki's seven chakras. He was reaching its limits, and the tiredness could make him fall to the ground at any time.</p>
 
-<p>“The end of the fourth lap is close, I can still make it” Lingyun's gaze was wandering. Tang Meng shook his head slightly, his face betraying some regret. He looked at Lingyun getting closer and closer, and he didn't know why he didn't care about winning or losing.</p>
+<p>&ldquo;The end of the fourth lap is close, I can still make it&rdquo; Lingyun's gaze was wandering. Tang Meng shook his head slightly, his face betraying some regret. He looked at Lingyun getting closer and closer, and he didn't know why he didn't care about winning or losing.</p>
 
 <p>Suddenly, when the fourth lap was almost completed, Lingyun's foot hit a small stone, and his whole body shook and seemed to fumble.</p>
 
-<p>People around him immediately screamed. Two low grade boys immediately run at Lingyun subconsciously trying to help him out.</p>
+<p>People around him immediately screamed. Two low grade boys immediately ran at Lingyun, subconsciously trying to help him out.</p>
 
-<p>“Don't touch him!” Tang Meng knew that, with just a little more strenght, Lingyun would not fall.</p>
+<p>&ldquo;Don't touch him!&rdquo; Tang Meng knew that, with just a little more strength, Lingyun would not fall.</p>
 
 <p>Lingyung completely let himself go. He would certainly not go back to school, but rather to the hospital. Lingyun spat out some blood. The girls running beside him suddenly hesitated.</p>
 
-<p>“Vomiting blood...”</p>
+<p>&ldquo;Vomiting blood...&rdquo;</p>
 
-<p>“Running can lead you to vomiting blood... this...”</p>
+<p>&ldquo;Running can lead you to vomiting blood... this...&rdquo;</p>
 
-<p>“He didn't fall, he kept on running!”</p>
+<p>&ldquo;He didn't fall, he kept on running!&rdquo;</p>
 
-<p>“The fourth lap is almost complete!”</p>
+<p>&ldquo;The fourth lap is almost complete!&rdquo;</p>
 
 <p>In seeing the blood shining in the sun, Ma Tianfeng felt a punch to the stomach.</p>
 
-<p>“Running until you spit blood, that's something that only happens during an international marathon, or a training of the special forces...” Ma Tianfeng muttered.</p>
+<p>&ldquo;Running until you spit blood, that's something that only happens during an international marathon, or a training of the special forces...&rdquo; Ma Tianfeng muttered.</p>
 
-<p>As a physical education teacher, he had felt the need to stop Lingyun.</p>
+<p>As a physical education teacher, he felt the need to stop Lingyun.</p>
 
-<p>“No, he's too tired, he's going to die, I can't watch this fool kill himself!”</p>
+<p>&ldquo;No, he's too tired, he's going to die, I can't watch this fool kill himself!&rdquo;</p>
 
-<p>If a physical education teacher is looking at his students running themselves to death, he has to do be responsible!</p>
+<p>If a physical education teacher was looking at his students running themselves to death, he had be responsible!</p>
 
 <p>Seeing Lingyun's blood flying, Tang Meng got so scared he almost fell sitting on the ground.</p>
 
-<p>“He's not good, is he? Is he still running?”</p>
+<p>&ldquo;He's not good, is he? Is he still running?&rdquo;</p>
 
 <p>Everyone was wondering why he was still running. Even more, he now seemed more smooth in his movements.</p>
 
@@ -119,33 +121,33 @@ category: Dragon Emperor, Martial God
 
 <p>It worked!</p>
 
-<p>The body was now moved by the Reiki, Lingyun's spirit was shook, his eyes became clear once again, he was running much faster!</p>
+<p>The body was now moved by the Reiki, Lingyun's spirit shook, his eyes became clear once again, he was running much faster!</p>
 
 <p>It's a new-found strenght!</p>
 
-<p>“What? He's speeding up again!”</p>
+<p>&ldquo;What? He's speeding up again!&rdquo;</p>
 
 <p>Knowing he would lose, Tang Meng was looking at all of that with a distant, unknowing face.</p>
 
-<p>“That's impossible!” Cheng Zhi witnessed the whole scene, which was contrary to common sense, eyes wide as those of a bull.</p>
+<p>&ldquo;That's impossible!&rdquo; Cheng Zhi witnessed the whole scene, which was contrary to common sense, eyes as wide as those of a bull.</p>
 
-<p>Ma Tianfeng, standing idle, squinting once again, raised his arm and looked at his watch. “He's 9 minutes into the fourth lap, look how lively he is now. This guy...”</p>
+<p>Ma Tianfeng, standing idle, squinting once again, he raised his arm and looked at his watch. &ldquo;He's 9 minutes into the fourth lap, look how lively he is now. This guy...&rdquo;</p>
 
-<p>Lingyun felt the energy the Reiki was giving his body, and smiled with his now bloody teeth. He felt much better now, and he casually raised his arm to wipe out the blood on his face.</p>
+<p>Lingyun felt the energy the Reiki was giving to his body, and smiled with his now bloody teeth. He felt much better now, and he casually raised his arm to wipe out the blood on his face.</p>
 
-<p>All he had to do was to run faster, an invisible aura surrounding his whole body, until that ran out!</p>
+<p>All he had to do was to run faster, an invisible aura surrounded his whole body, until that ran out!</p>
 
-<p>“Come on! Come on!”</p>
+<p>&ldquo;Come on! Come on!&rdquo;</p>
 
-<p>“You're a true warrior!”</p>
+<p>&ldquo;You're a true warrior!&rdquo;</p>
 
 <p>Everybody in the playground was running along Lingyun, and support cheers overwhelmed the campus. Some young girls were even crying for Lingyun.</p>
 
-<p>“The finish line, I went there to block him!”</p>
+<p>&ldquo;The finish line, I need to go there to block him!&rdquo;</p>
 
-<p>After sending this message to Xie Junyan, Li Lei put the cellphone away and ran directly towards Lingyun.</p>
+<p>After sending this message to Xie Junyan, Li Lei put the cellphone away and ran directly towards Lingyun. </p>
 
-
+<p>Note: If you want to support this translation, but can’t donate, consider adding us to your ad blocker’s whitelist. We take intrusive ads very seriously, please contact us if you come across a malicious ad!</p>
 <style>
   .adboxes{
     display: inline-block;
