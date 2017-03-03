@@ -3,7 +3,7 @@ layout: post
 title: Chapter 10 - Gambling
 category: Dragon Emperor, Martial God
 ---
-<p>Editor: </p>
+<p>Editor: JetonS</p>
 <p>Tang Meng seemed to have long been expected Xie Junyan, so he smiled, thumbs pointing to the direction of the playground, in a leisurely way: &quot;Since Xie has a little of interest, you should quickly bet&#8230;&rdquo; &ldquo;Well, but the fat man has already run half a circle, can you bet how much he can run?&rdquo;</p>
 
 <p>All the students wanted to bet and were breathtakingly staring at Xie Junyan. Obviously, they all trusted his judgement.</p>
