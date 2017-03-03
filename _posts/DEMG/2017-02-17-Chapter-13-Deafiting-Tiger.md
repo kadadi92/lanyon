@@ -5,210 +5,214 @@ category: Dragon Emperor, Martial God
 ---
 <p>Note: We are recruting Editor for our novels. You can Contact Us through <a href="http://novellatranslation.com/contact-us">Contact Us page</a>. Mail us at novellatranslation@gmail.com</p>
 
-<p>Right now Lingyun is not even 50 meters into the fifth lap, and Li Lei has enough time to stop him.</p>
+<p>Dragon Emperor Edited &ndash; Chapter 13</p>
 
-<p>He believes that if he pushed Lingyun now, he would certainly fall to the ground and not come back up.</p>
-<!--more-->
-<p>He gets on the track and waits calmly for Lingyun to arrive.</p>
+<p>Right now Lingyun was not even 50 meters into the fifth lap, and Li Lei had enough time to stop him.</p>
 
-<p>Lingyun feels like he is running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
+<p>He believed that if he pushed Lingyun now, he would certainly fall to the ground and not come back up.</p>
 
-<p>That's why he is running faster and faster, and he approaches the position where Li Lei is.</p>
+<p>He got on the track and waited calmly for Lingyun to arrive.</p>
 
-<p>Seeing that Lingyun is running easily, Tang Meng feels surprised, but he feels relieved as well, because he knows that Lingyun will definitely be able to complete the fifth lap. And if he completed the fifth lap, Xie Yanjun would then lose!</p>
+<p>Lingyun felt like he was running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
 
-<p>But when, following with his eyes Lingying advancing, he sees Li Lei, looking much more imposing in comparison, Tang Meng's eyes burn with anger!</p>
+<p>That's why he was running faster and faster, and he approached the position where Li Lei was.</p>
 
-<p>"It's all over!" That is his first thought.</p>
+<p>Seeing that Lingyun was running easily, Tang Meng felt surprised, but he felt relieved as well, because he knew that Lingyun will definitely be able to complete the fifth lap. And if he completed the fifth lap, Xie Yanjun would then lose!</p>
 
-<p>The proverb says that out of ten bets, nine are rigged. The small-time expert gambler Tang Meng is well aware of that, but today he has been surprised so many times by Lingyun, that he cannot think straight anymore.</p>
+<p>But when, following with his eyes the way Lingying was advancing, he saw Li Lei, looking much more imposing in comparison, Tang Meng's eyes burned with anger!</p>
+
+<p>&quot;It's all over!&quot; That were his first thought.</p>
+
+<p>The proverb said that out of ten bets, nine were rigged. The small-time expert gambler Tang Meng was well aware of that, but today he had been surprised so many times by Lingyun, that he couldn&rsquo;t think straight anymore.</p>
 
 <p>That's why he didn't think that, was Xie Junyan to lose, he would certainly find some way to turn things around.</p>
 
 <p>And Li Lei is his Plan B!</p>
 
-<p>"Li Lei, don't you dare!"</p>
+<p>&quot;Li Lei, don't you dare!&quot;</p>
 
-<p>With this in mind, Tang Meng cries out and runs furiously towards the position of Li Lei.</p>
+<p>With this in mind, Tang Meng cried out and ran furiously towards the position of Li Lei.</p>
 
-<p>But now it's too late, Lingyun has already arrived in front of Li Lei!</p>
+<p>But now it was too late, Lingyun had already arrived in front of Li Lei!</p>
 
-<p>Li Lei first turns to look at Tang Meng who is rushing towards him, and he laughs with contempt; then he turns smiling toward Lingyun that is coming to him, and slowly raises his strong, muscular arm.</p>
+<p>Li Lei first turned to look at Tang Meng who was rushing towards him, and he laughed with contempt; then he smiled toward Lingyun that was coming to him, and slowly rose his strong, muscular arm.</p>
 
-<p>"Buddy, you're not tired? Get some rest!"</p>
+<p>&quot;Buddy, you're not tired? Get some rest!&quot;</p>
 
-<p>Li Lei raises his arm and goes for Lingyun's shoulder while he's passing him by!</p>
+<p>Li Lei rose his arm and went for Lingyun's shoulder while he passed him by!</p>
 
-<p>No one thought that, at this stage, somebody would come and dare push Lingyun to the ground, so everyone is very surprised.</p>
+<p>No one thought that, at this stage, somebody would come and dare push Lingyun to the ground, so everyone was very surprised.</p>
 
-<p>"That person is really bad! Lingyun even spat blood, but he kept on running, and now this guy comes up to push him..."</p>
+<p>&quot;That person is really bad! Lingyun even spat blood, but he kept on running, and now this guy comes up to push him...&quot;</p>
 
-<p>"Right, how could he do that? If Lingyun fell, he would get hurt pretty badly!"</p>
+<p>&quot;Right, how could he do that? If Lingyun fell, he would get hurt pretty badly!&quot;</p>
 
-<p>But…</p>
+<p>But&#8230;</p>
 
-<p>Lingyun's sight is now clear, and his mind focused, so as soon as Li Lei smiled, he already knew that he had bad intentions, so he prepared.</p>
+<p>Lingyun's sight was now clear, and his mind focused, so as soon as Li Lei smiled, he already knew that he had bad intentions, so he was prepared.</p>
 
-<p>Seeing that Li Lei actually wanted to push him, Lingyun laughed, and moving one foot in one second has passed by the arm of Li Lei, just moving to the side.</p>
+<p>Seeing that Li Lei actually wanted to push him, Lingyun laughed, and moved one foot, in one second he passed by the arm of Li Lei, just moving to the side.</p>
 
-<p>"I have always been the one pushing other people, being pushed myself is really not in my style!"</p>
+<p>&quot;I have always been the one pushing other people, being pushed myself is really not in my style!&quot;</p>
 
-<p>"We'll settle this later!"</p>
+<p>&quot;We'll settle this later!&quot;</p>
 
-<p>In a moment Lingyun is gone past Li Lei, and he even turns back and mocks him with a smile, as clearly realized by everyone!</p>
+<p>In a moment Lingyun went past Li Lei, and he even turned back and mocked him with a smile, as clearly realized by everyone!</p>
 
-<p>"Wow, he's fleet of foot!"</p>
+<p>&quot;Wow, he's fleet of foot!&quot;</p>
 
-<p>"Amazing, he spat blood, and he could still dodge that!"</p>
+<p>&quot;Amazing, he spat blood, and he could still dodge that!&quot;</p>
 
-<p>Seeing the agility of Lingyun, all the girls in the playground admire him with bright eyes.</p>
+<p>Seeing the agility of Lingyun, all the girls in the playground admired him with bright eyes.</p>
 
-<p>"Shit, how did he do that? He was about to be tackled! How is it possible?"</p>
+<p>&quot;Shit, how did he do that? He was about to be tackled! How is it possible?&quot;</p>
 
-<p>Tang Meng had closed his eyes when Li Lei had raised his arm, but when he opens them and sees that Lingyun is already a few meters away, his face is filled with amazement.</p>
+<p>Tang Meng had closed his eyes when Li Lei had raised his arm, but when he opened them and saw that Lingyun was already a few meters away, his face filled with amazement.</p>
 
-<p>Li Lei is even more amazed. He felt that his hand was about to touch the shoulder of Lingyun, how could he slip away?</p>
+<p>Li Lei was even more amazed. He felt that his hand was about to touch the shoulder of Lingyun, how could he slip away?</p>
 
-<p>Li Lei remains stunned for a moment, but despite the looks full of anger and the furious yells of the girls towards him, he pushes away a guy who stands beside him and begins chasing Lingyun.</p>
+<p>Li Lei remained stunned for a moment, but despite the looks full of anger and the furious yells of the girls towards him, he pushed away a guy who was standing beside him and began chasing Lingyun.</p>
 
-<p>He is already compromised, so at this point he cannot allow Lingyun to complete the fifth lap.</p>
+<p>He was already compromised, so at this point he couldn&rsquo;t allow Lingyun to complete the fifth lap.</p>
 
-<p>Moving on with a steady pace and hearing the cries of the girls behind his back, Lingyun cannot know that this beefy boy is running after him.</p>
+<p>Moving on with a steady pace and hearing the cries of the girls behind his back, Lingyun couldn&rsquo;t know that this beefy boy was running after him.</p>
 
-<p>He speeds up a bit, tilts the sandbag slightly with his right hand, and conjures up his energies with the left hand.</p>
+<p>He sped up a bit, tilted the sandbag slightly with his right hand, and conjured up his energies with the left hand.</p>
 
-<p>Li Lei faces Lingyun once again, he wants to grapple him with both hands and throw him to the ground, that's what he is about to do!</p>
+<p>Li Lei faced Lingyun once again, he wanted to grapple him with both hands and throw him to the ground, that was what he was about to do!</p>
 
-<p>He gets right behind Lingyun, and stretches his arms under his armpits.</p>
+<p>He got right behind Lingyun, and stretched his arms under his armpits.</p>
 
-<p>Lingyun is waiting for that moment, he bends forward, swiftly lifts his left arm, grabs the bouncing sandbag with both hands, and by turning his torso he hurles the bag behind him!</p>
+<p>Lingyun was waiting for that moment, he bent forward, swiftly lifted his left arm, grabbed the bouncing sandbag with both hands, and by turning his torso he hurled the bag behind him!</p>
 
-<p>Lingyun is not holding himself back, he puts all of his strenght in this move.</p>
+<p>Lingyun did not hold himself back, he put all of his strength in this move.</p>
 
-<p>Pah! The bag hits Li Lei precisely on the shoulder, and as he was not anticipating that at all, he gets thrown to the groun.</p>
+<p>Pah! The bag hit Li Lei precisely on the shoulder, and as he was not anticipating that at all, he got thrown to the ground.</p>
 
-<p>Li Lei's face impacts the ground, blood comes out from his nose, and he is not able to lift himself up anymore!</p>
+<p>Li Lei's face impacted the ground, blood coming out from his nose, and he was not able to lift himself up anymore!</p>
 
 <p>If it had been someone else, he would have already fainted.</p>
 
-<p>"Wow, Lingyun is soo cool!"</p>
+<p>&quot;Wow, Lingyun is soo cool!&quot;</p>
 
-<p>"Good job! He asked for it!"</p>
+<p>&quot;Good job! He asked for it!&quot;</p>
 
 <p>Lingyun did all of that in just one motion, without even stopping running.</p>
 
 <p>The bag drew a complete circle in the air and returned on Lingyun's right shoulder, who, after he threw Li Lei to the ground, took a deep breath and continued to run with the rhythm he had before.</p>
 
-<p>Now Tang Meng has run to Li Lei and he begins to throw kicks at him.</p>
+<p>Now Tang Meng had run to Li Lei and he began throwing kicks at him.</p>
 
-<p>"Fuck you, you wanted to ruin my bet, are you tired of living perhaps?!"</p>
+<p>&quot;Fuck you, you wanted to ruin my bet, are you tired of living perhaps?!&quot;</p>
 
-<p>Who is Tang Meng? The son of the vice president of the provincial police. He doesn't even care about Xie Junyan, so he cares even less about one of Xie Junyan's men.</p>
+<p>Who was Tang Meng? The son of the vice president of the provincial police. He didn&rsquo;t even care about Xie Junyan, so he cared even less about one of Xie Junyan's men.</p>
 
-<p>After kicking Li Lei as if he were a dead dog, Tang Meng is stopped by sp,e sports students, including Cheng Zhi.</p>
+<p>After kicking Li Lei as if he were a dead dog, Tang Meng was stopped by sports students, including Cheng Zhi.</p>
 
-<p>"Tell me, who told you to do that? Why did you want to hurt Lingyun without a reason?" Tang Meng speaks really bluntly, wanting to know the instigator of that action.</p>
+<p>&quot;Tell me, who told you to do that? Why did you want to hurt Lingyun without a reason?&quot; Tang Meng spoke really bluntly, wanting to know the instigator of that action.</p>
 
-<p>"Brother Tang, you misunderstand me, I heard that last night that guy tried to rape Cao Shanshan, so ..." Li Lei couldn't obviously say that Xie Junyan gave him the order, so he had come up with a random excuse.</p>
+<p>&quot;Brother Tang, you misunderstood me, I heard that last night that guy tried to rape Cao Shanshan, so ...&quot; Li Lei couldn't obviously say that Xie Junyan gave him the order, so he had come up with a random excuse.</p>
 
-<p>"Raping my ass! Enough with your lies, somebody will certainly come and settle score with Lingyun about what happened last night, but that has nothing to do with you. Tell me, was it Xie Junyan, that bastard, who gave you that order?"</p>
+<p>&quot;Raping my ass! Enough with your lies, somebody will certainly come and settle score with Lingyun about what happened last night, but that has nothing to do with you. Tell me, was it Xie Junyan, that bastard, who gave you that order?&quot;</p>
 
-<p>Tang Meng is really angry now, he is the only one in the school who can afford to call Xie Junyan a bastard.</p>
+<p>Tang Meng was really angry now, he was the only one in the school who could afford to call Xie Junyan a bastard.</p>
 
-<p>"Brother Tang, you really misunderstand, really..."</p>
+<p>&quot;Brother Tang, you really misunderstand, really...&quot;</p>
 
-<p>Although Li Lei is a really tough fighter, he has to pick who he is going to fight with, and he really doesn't feel like messing with Tang Meng, so he stays there on the ground, lying like a dead dog, just babbling.</p>
+<p>Although Li Lei was a really tough fighter, he had to pick who he was going to fight with, and he really didn&rsquo;t feel like messing with Tang Meng, so he stayed there on the ground, lying like a dead dog, just babbling.</p>
 
-<p>Tang Meng spits in his face, and slowly says: "Li Lei, do not put your trust in Xie Junyan's proection, you're not untouchable. I'm telling you, this doesn't end here! If you dare try and touch Lingyun again today, I will have you excluded from your final exams, am I understood?"</p>
+<p>Tang Meng spitted in his face, and slowly said: &quot;Li Lei, do not put your trust in Xie Junyan's protection, you're not untouchable. I'm telling you, this doesn't end here! If you dare to try and touch Lingyun again today, I will have you excluded from your final exams, am I understood?&quot;</p>
 
-<p>Li Lei knows that Tang Meng is being serious, and knowing that when that bully said something he always put his money where his mouth was, he gets all pale and tries to explain himself.</p>
+<p>Li Lei knew that Tang Meng was being serious, and knowing that when that bully said something he always put his money where his mouth was, he got all pale and tried to explain himself.</p>
 
-<p>"Look! Lingyun completed the fifth lap!"</p>
+<p>&quot;Look! Lingyun completed the fifth lap!&quot;</p>
 
-<p>"He's still running!"</p>
+<p>&quot;He's still running!&quot;</p>
 
-<p>"This is supernatural! Supernatural…"</p>
+<p>&quot;This is supernatural! Supernatural&#8230;&quot;</p>
 
-<p>All those who were watching the scene turn around, because in the meantime Lingyun has already finished the fifth lap!</p>
+<p>All those who were watching the scene turned around, because in the meantime Lingyun had already finished the fifth lap!</p>
 
-<p>In that moment Tang Meng feels like a weight has been lifted from his chest, he gives a menacing stare to Li Lei, and then goes away.</p>
+<p>At that moment, Tang Meng felt like a weight had been lifted from his chest, he gave a menacing stare to Li Lei, and then went away.</p>
 
-<p>Remembering how certain Cao Shanshan looked when she made that bet, Tang Meng shakes his head a bit. What a foresight that beatiful girl had!</p>
+<p>Remembering how certain Cao Shanshan looked when she made that bet, Tang Meng shook his head a bit. What a foresight that beautiful girl had!</p>
 
-<p>Hearing that Lingyun has completed the fifth lap, Li Lei pales, knowing he has definitively failed!</p>
+<p>Hearing that Lingyun had completed the fifth lap, Li Lei paled, knowing he definitively failed!</p>
 
-<p>Xie Junyan will surely scold him severely, and he has even made enemy with Tang Meng. He deeply regrets getting in that situation.</p>
+<p>Xie Junyan would surely scold him severely, and he even made enemy with Tang Meng. He deeply regretted getting in that situation.</p>
 
-<p>Unfortunately, he has forgotten about his greatest enemy, Lingyun.</p>
+<p>Unfortunately, he forgot about his greatest enemy, Lingyun.</p>
 
-<p>He is still not considering Lingyun of any importance.</p>
+<p>He was still not considering Lingyun of any importance.</p>
 
-<p>Seeing that Lingyun managed to finish the lap even with that intervention, Ma Tianfeng is even more impressed. What kind of magical substance had been eating that guy, who ran even better after spitting blood?</p>
+<p>Seeing that Lingyun managed to finish the lap even with that intervention, Ma Tianfeng was even more impressed. What kind of magical substance had been eating that guy, who ran even better after spitting blood?</p>
 
 <p>Sixth lap!</p>
 
 <p>Seventh lap!</p>
 
-<p>In the park the screams, applauses and shouts of support all mesh together and resonate in the sky. Everyone is going frazy for that guy that runs like a madman!</p>
+<p>In the park the screams, applauses and shouts of support all mesh together and resonate in the sky. Everyone was going frenzy for that guy that ran like a madman!</p>
 
-<p>When Lingyun is beginning to run the eighth lap, the bell ending the third hour rings!</p>
+<p>When Lingyun began to run the eighth lap, the bell ending the third hour rang!</p>
 
-<p>All the students who were doing lessons were also attracted by the cries in the sports field, and once the bell has rung the come out immediately. Even if they do not know how many laps Lingyun did, they know that Lingyun is still running!</p>
+<p>All the students who were doing lessons were also attracted by the cries in the sports field, and once the bell rang, they rushed out immediately. Even if they did not know how many laps Lingyun did, they knew that Lingyun was still running!</p>
 
-<p>They are not satisfied with talking about it in the corridors, they all come down to the playground.</p>
+<p>They were not satisfied with talking about it in the corridors, they all came down to the playground.</p>
 
-<p>The students of the first and second year are the fastest, and they lead the crowd.</p>
+<p>The students of the first and second year were the fastest, and they lead the crowd.</p>
 
 <p>The fastest among those of the third year, of course, are those from the VI class, that of Lingyun.</p>
 
-<p>After all the students have already left, Cao Shanshan packs her things in her backpack and stands up, her sinuous body naturally taking an S-shape, and with a smile on her face she sais to Zhang Ling that she can't wait to go downstairs: "Let's go out to see what is going on."</p>
+<p>After every students already left, Cao Shanshan packed her things in her backpack and stood up, her sinuous body naturally taking an S-shape, and with a smile on her face she told Zhang Ling that she couldn&rsquo;t wait to go downstairs: &quot;Let's go out to see what is going on.&quot;</p>
 
-<p>He seems in a very good mood.</p>
+<p>She seemed in a very good mood.</p>
 
-<p>Se is very curious to find out if it was thanks to her that Lingyun became like that after a single night.</p>
+<p>She was very curious to find out if it was thanks to her that Lingyun became like that after a single night.</p>
 
 <p>But his change was huge indeed.</p>
 
-<p>The two girls leave the class but they don't head downstairs. Instead, they find a place with a nice view, and watch the playground while leaning on railings.</p>
+<p>The two girls left the class but they didn't head downstairs. Instead, they found a place with a nice view, and watched the playground while leaning on railings.</p>
 
-<p>"Wow, how many people!"</p>
+<p>&quot;Wow, how many people!&quot;</p>
 
-<p>Utters Zhang Ling, while watching with amazement the multitude of people flowing quickly to the playground!</p>
+<p>Uttered Zhang Ling, while watching with amazement the multitude of people flowing quickly to the playground!</p>
 
-<p>"He usually shows nothing of himself, but when he does, he sure surprises everyone ... this guy is still running!"</p>
+<p>&quot;He usually shows nothing of himself, but when he does, he sure surprises everyone ... this guy is still running!&quot;</p>
 
-<p>Listening to Zhang Ling speaking with so much surprise, Cao Shanshan watches Lingyun running like crazy in the playground, and she gets lost in her thoughts.</p>
+<p>Listening to Zhang Ling speaking with so much surprise, Cao Shanshan watched Lingyun running like crazy in the playground, and she got lost in her thoughts.</p>
 
-<p>"Shanshan, considering how long he's been running, how many laps do you think he completed?" Zhang Ling suddenly begins to worry about Cao Shanshan's 1,000 yuans.</p>
+<p>&quot;Shanshan, considering how long he's been running, how many laps do you think he completed?&quot; Zhang Ling suddenly began to worry about Cao Shanshan's 1,000 yuans.</p>
 
-<p>"I do not know if he took a break, but I think he has done at least four laps ..." Cao Shanshan closes her rosy fist while looking at that silhouhette running on the track.</p>
+<p>&quot;I do not know if he took a break, but I think he has done at least four laps ...&quot; Cao Shanshan closed her rosy fist while looking at that silhouette running on the track.</p>
 
-<p>"He must have certainly rested, or he would be dead already, nobody could have so much energy!" Zhang Ling smirked.</p>
+<p>&quot;He must have certainly rested, or he would be dead already, nobody could have so much energy!&quot; Zhang Ling smirked.</p>
 
 <p>In this moment, the field is permeated with great enthusiasm, and some girl shouts:</p>
 
-<p>"Eight laps!"</p>
+<p>&quot;Eight laps!&quot;</p>
 
-<p>"What?!"</p>
+<p>&quot;What?!&quot;</p>
 
-<p>"What?!"</p>
+<p>&quot;What?!&quot;</p>
 
-<p>Cao Shanshan and Zhang Ling are both completely astonished.</p>
+<p>Cao Shanshan and Zhang Ling were both completely astonished.</p>
 
-<p>"But is he still a human? Does he want to run to death?"</p>
+<p>&quot;But is he still a human? Does he want to run to death?&quot;</p>
 
-<p>Zhang Ling's question is one many other people are asking as well.</p>
+<p>Zhang Ling's question was one many other people were asking as well.</p>
 
-<p>She doesn't notice that Cao Shanshan, standing next to hes, has a strange light in her eyes.</p>
+<p>She didn't notice that Cao Shanshan, standing next to her, had a strange light in her eyes.</p>
 
-<p>Only she, in the whole school, knows that Lingyun has managed to run nine laps because he has released the energy hidden inside him </p>
+<p>Only she, in the whole school, knew, that Lingyun had managed to run nine laps because he had released the energy hidden inside him </p>
 
+<p>Note: If you want to support this translation, but can’t donate, consider adding us to your ad blocker’s whitelist. We take intrusive ads very seriously, please contact us if you come across a malicious ad!</p>
 
 <style>
   .adboxes{
     display: inline-block;
     height:260px;
     width: 49%;
+    <p>Note: If you want to support this translation, but can’t donate, consider adding us to your ad blocker’s whitelist. We take intrusive ads very seriously, please contact us if you come across a malicious ad!</p>
   }
   
   @media (max-width:400px){
