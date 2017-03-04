@@ -12,7 +12,7 @@ category: Dragon Emperor, Martial God
 <p>He believed that if he pushed Lingyun now, he would certainly fall to the ground and not come back up.</p>
 
 <p>He got on the track and waited calmly for Lingyun to arrive.</p>
-
+<!--more-->
 <p>Lingyun felt like he was running ever more easily, the sandbag on his shoulder feeling lighter than ever.</p>
 
 <p>That's why he was running faster and faster, and he approached the position where Li Lei was.</p>
