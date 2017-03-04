@@ -7,7 +7,7 @@ category: Dragon Emperor, Martial God
 <p>Tang Meng seemed to have long been expected Xie Junyan, so he smiled, thumbs pointing to the direction of the playground, in a leisurely way: &quot;Since Xie has a little of interest, you should quickly bet&#8230;&rdquo; &ldquo;Well, but the fat man has already run half a circle, can you bet how much he can run?&rdquo;</p>
 
 <p>All the students wanted to bet and were breathtakingly staring at Xie Junyan. Obviously, they all trusted his judgement.</p>
-
+<!--more-->
 <p>Xie Junyan did not speak, but his eyes fell on the playground where Lingyun ran, careful observing his pace, his movements, his breathing, and even his eyes, it looked like horse racing&#8230;.</p>
 
 <p>With his observation, Xie Junyan&rsquo;s brows wrinkled more and more tightly, his face became extremely complex.</p>
